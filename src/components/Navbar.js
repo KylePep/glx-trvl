@@ -20,7 +20,7 @@ const changeColor =()=>{
   window.addEventListener('scroll', changeColor)
 
   return (
-    <div className={color ? 'header header-bg' : 'header'}>
+    <div className={color ? 'header header-bg' : 'header header-nbg'}>
       <Link to='/'>
         <h1>GLX TRVL</h1>
       </Link>
