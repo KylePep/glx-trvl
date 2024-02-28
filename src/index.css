@@ -6,6 +6,11 @@
   padding: 0;
 }
 
+h1,
+p {
+  color: #fff;
+}
+
 body {
   margin: 0;
   font-family: 'Outfit' 'Segoe UI', 'Roboto', 'Oxygen',
